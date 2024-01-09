@@ -7,7 +7,7 @@
 ** Name        : EfolioG.cpp
 ** Author      : Ivo Baptista
 ** Version     : 1.1
-** Copyright   : Your copyright notice
+** Copyright   : IVO.com.pt
 ** Description : Atividades Imersivas in C++, Ansi-style
 ** ===========================================================================
 */
